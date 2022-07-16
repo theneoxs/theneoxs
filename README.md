@@ -1,18 +1,13 @@
-### Hi there 👋
+### Greetings, traveller!
 
-<!--
-**theneoxs/theneoxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About:
+- 🕸 Artem, 21 y.o.
+- 🔭 Currently created Desktop non-standard programm or Game
+- 🎲 Hobby: Game development (https://theneoxs.itch.io)
+- 📃 Ready to learning
+- ✉️ My E-mail: [tema.makarov2012@gmail.com](mailto:tema.makarov2012@gmail.com).
 
-Here are some ideas to get you started:
+Many ideas, crazy creations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
