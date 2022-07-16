@@ -11,10 +11,8 @@ About:
 Many ideas, crazy creations
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&show_icons=true&theme=buefy&layout=compact" />
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theneoxs&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&theme=tokyonight)
-
-
