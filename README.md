@@ -12,7 +12,7 @@ Many ideas, crazy creations
 
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&show_icons=true&theme=buefy&layout=compact" />
+  <img align="right" wight="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theneoxs&show_icons=true&theme=buefy&layout=compact" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theneoxs&theme=dark)](https://git.io/streak-stats)
