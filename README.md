@@ -1,10 +1,10 @@
 ### Greetings, traveller!
 
 About:
-- 👋🏻 Artem, 22 y.o.
+- 👋🏻 Artem, 22 y.o., Business-analytic
 - 🔭 Currently created Desktop non-standard programm or Game
 - 💾 Know Java, C# and GDScript. Main: Python
-- 🎲 Hobby: Game development (https://theneoxs.itch.io)
+- 🎲 Hobby: Game development (https://theneoxs.itch.io) and cooking
 - 📃 Ready to learning
 - ✉️ My E-mail: [tema.makarov2012@gmail.com](mailto:tema.makarov2012@gmail.com).
 
