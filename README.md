@@ -1,7 +1,7 @@
 ### Greetings, traveller!
 
 About:
-- 👋🏻 Artem, 22 y.o., Business-analytic
+- 👋🏻 Artem, 23 y.o., Business-analytic
 - 🔭 Currently created Desktop non-standard programm or Game
 - 💾 Know Java, C# and GDScript. Main: Python
 - 🎲 Hobby: Game development (https://theneoxs.itch.io) and cooking
